@@ -1,0 +1,16 @@
+.actionbutton{
+    width: 100%;
+    font-size: 64px;
+    color: black;
+    background: white;
+    border: 1px solid grey;
+}
+.NumberField{
+    width: 100%;
+    height: 50%;
+}
+.number{
+    width: 33.33%;
+    height: 33.33%;
+    border: 1px gray solid;
+}
