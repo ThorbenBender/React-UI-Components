@@ -1,12 +1,12 @@
 .actionbutton{
-    width: 80%;
+    width: 100%;
     font-size: 64px;
     color: black;
     background: white;
     border: 1px solid grey;
 }
 .NumberField{
-    width: 80%;
+    width: 100%;
     height: 50%;
 }
 .number{
